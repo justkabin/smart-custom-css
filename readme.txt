@@ -21,6 +21,16 @@ A simple way to add any Custom CSS code to your whole WordPress website or speci
 * Easy-to-use.
 * FREE!
 
+= Credits =
+
+* CSS 3 Icon in banner & icon by [ChiaYiLai](https://dribbble.com/shots/1655604-CSS3-logo-icon-PSD-Freebie-download)
+
+= Visit Us =
+
+* Twitter - [https://twitter.com/6hourcreative](https://twitter.com/6hourcreative)
+* Facebook - [https://www.facebook.com/6hourcreative/](https://www.facebook.com/6hourcreative/)
+* Website - [https://6hourcreative.com](https://6hourcreative.com)
+
 == Installation ==
 
 **Through Dashboard**
