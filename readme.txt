@@ -1,6 +1,6 @@
 === Smart Custom CSS ===
-Contributors: 6hourcreative, satrya
-Tags: custom css, customizer, css, style, theme, child theme, post, page
+Contributors: satrya
+Tags: custom css, customizer, css, style, theme, child theme, post, page, metabox, admin
 Requires at least: 4.0
 Tested up to: 4.6.1
 Stable tag: 1.0.0
@@ -13,6 +13,8 @@ A simple way to add any Custom CSS code to your whole WordPress website or speci
 
 **Smart Custom CSS** allows you to add any custom CSS code to your WordPress website. It will automatically override any themes or plugins default stylesheets. No need to create a child theme anymore if you just only need to add custom CSS code to your website, just install this plugin, add the custom CSS code, done!
 
+Please take a look the plugin page for more details: [https://satrya.me/portfolio/smart-custom-css/](https://satrya.me/portfolio/smart-custom-css/)
+
 = Features Include: =
 
 * No configuration needed.
@@ -21,15 +23,13 @@ A simple way to add any Custom CSS code to your whole WordPress website or speci
 * Easy-to-use.
 * FREE!
 
+= Contribute =
+
+If you want to contribute, we hosted the plugin on github: [https://github.com/satrya/smart-custom-css](https://github.com/satrya/smart-custom-css)
+
 = Credits =
 
 * CSS 3 Icon in banner & icon by [ChiaYiLai](https://dribbble.com/shots/1655604-CSS3-logo-icon-PSD-Freebie-download)
-
-= Visit Us =
-
-* Twitter - [https://twitter.com/6hourcreative](https://twitter.com/6hourcreative)
-* Facebook - [https://www.facebook.com/6hourcreative/](https://www.facebook.com/6hourcreative/)
-* Website - [https://6hourcreative.com](https://6hourcreative.com)
 
 == Installation ==
 
